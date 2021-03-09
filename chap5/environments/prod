@@ -9,3 +9,8 @@ localhost ansible_connection=local
 
 [db]
 20.83.171.170
+
+[prod:children]
+lb
+app
+db
