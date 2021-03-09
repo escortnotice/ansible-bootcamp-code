@@ -1,0 +1,11 @@
+[local]
+localhost ansible_connection=local
+
+[lb]
+20.83.171.170
+
+[app]
+20.83.171.170
+
+[db]
+20.83.171.170

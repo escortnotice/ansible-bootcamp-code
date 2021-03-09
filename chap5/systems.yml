@@ -1,0 +1,13 @@
+---
+ - name: base systems configurations for linux servers
+   hosts: prod
+   become: true
+   tasks:
+     -
+
+
+     -
+
+
+
+     -
